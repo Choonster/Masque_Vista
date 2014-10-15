@@ -1,0 +1,15 @@
+﻿## Interface: 60000
+
+## Title: Masque |cff267EFFVista|r
+## Notes: |cff267EFFJiyll|r skins for Masque based on Vista.
+## Notes-frFR: Skins de |cff267EFFJiyll|r pour Masque basees sur Vista.
+## Version: @project-version@
+## Author: |cff267EFFJiyll|r, Choonster (updates)
+## Dependencies: Masque
+
+## X-eMail: jiyll@hotmail.com
+## X-Credits: Diabless, Caith, StormFX
+## X-Category: Plug-Ins
+
+
+Skins.lua
