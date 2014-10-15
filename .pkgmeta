@@ -2,3 +2,5 @@
 
 tools-used:
     - findglobals
+	
+enable-nolib-creation: no
