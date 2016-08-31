@@ -1,4 +1,4 @@
-﻿## Interface: 60000
+﻿## Interface: 70000
 
 ## Title: Masque |cff267EFFVista|r
 ## Notes: |cff267EFFJiyll|r skins for Masque based on Vista.
